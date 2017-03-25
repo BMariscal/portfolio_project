@@ -11,26 +11,25 @@
     -moz-force-broken-image-icon: 1;
     width: 100px;
     height: 75px;
-  }
+}
 
     img {
     width: 100%;
     height: auto;
 }
   
-
-    .dog {
+.dog {
         width: 120px;
         height: 120px;
         background: url('icon.png') no-repeat;
         background-position: center;
         display: block;
         margin: 10px;
-    }
-    .dog:hover {
+ }
+ .dog:hover {
         background: url("js-file.png") no-repeat;
         background-position: center;
-    }
+ }
 
 .container {
     position: relative;
