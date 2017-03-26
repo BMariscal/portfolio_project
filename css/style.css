@@ -40,7 +40,7 @@
         background-position: center;
     }
 
-.container {
+.container1 {
     position: relative;
     width: 50%;
 }
@@ -64,11 +64,11 @@
   -ms-transform: translate(-50%, -50%)
 }
 
-.container:hover .image {
+.container1:hover .image {
   opacity: 0.3;
 }
 
-.container:hover .middle {
+.container1:hover .middle {
   opacity: 1;
 }
 
