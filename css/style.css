@@ -12,6 +12,10 @@
     width: 100px;
     height: 75px;
   }
+  
+  .container{
+  flex-wrap: nowrap | wrap | wrap-reverse;
+}
 
 
     img {
