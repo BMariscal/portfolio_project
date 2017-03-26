@@ -43,8 +43,8 @@ h1{
 
 
     .dog {
-        width:110px;
-      height:110px;
+        width:20vw;
+      height:20vh;
         background: url('icon.png') no-repeat;
         background-position: center;
         display: block;
