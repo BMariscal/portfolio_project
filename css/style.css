@@ -12,13 +12,13 @@
     width: 100px;
     height: 75px;
   }
-/*   .flex-wrap {
+  .flex-wrap {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     -moz-flex-wrap: wrap;
     flex-wrap: wrap;
 }
-   */
+  
 .flex-container {
    display: -webkit-flex;
    display: flex;
