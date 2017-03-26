@@ -18,13 +18,16 @@
   flex-shrink: inherit;
 }
   
-@media only screen and (max-width: 320px) {
 
-   body { font-size: 2em; }
-
+ h1 {
+  font-size: 24px;
 }
-  
-  
+
+@media (min-width: 800px) {
+  h1 {
+    font-size: 18px;
+  }
+}
   
   
   
