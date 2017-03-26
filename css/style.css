@@ -13,8 +13,9 @@
     height: 75px;
   }
   
-  .container{
-  flex-wrap: nowrap | wrap | wrap-reverse;
+  .flexbox{
+  flex-wrap:wrap;
+  flex-shrink: inherit;
 }
 
 
