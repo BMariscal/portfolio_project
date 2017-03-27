@@ -1,8 +1,6 @@
 
-@media (min-width: 500px) {
-body{
-background-color:#fcf8fd ;
-
-
-}
+@media (max-width: 300px) {
+  #lil_box {
+    display: none;
+  }
 }
