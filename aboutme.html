@@ -9,17 +9,16 @@
 <link rel="icon" type="image/jpg" href="http://i.imgur.com/pI3LpUF.png">
 <style>
 	
-html,
-body {
-	margin:0;
-	padding:0;
-	height:100%;
-	background-color: #ffff;
+html {
+  height: 100%;
 }
-#wrapper {
-	min-height:100%;
-	position:relative;
-	
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1;
 }
 #header {
 	background:#502369;
@@ -35,12 +34,7 @@ body {
 /* 	bottom:0;
 	left:0; */
 }
-.content {
-  min-height: calc(100vh - 70px);
-}
-.footer {
-  height: 50px;
-}
+
 
 .card {
 
