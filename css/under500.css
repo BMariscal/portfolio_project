@@ -1,6 +1,10 @@
 
-@media (max-width: 300px) {
+@media (max-width: 500px) {
   #lil_box {
     display: none;
+
   }
+   body{
+    background-color: yellow;
+  } 
 }
