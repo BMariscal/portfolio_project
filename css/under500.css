@@ -14,7 +14,9 @@
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
    #body{
-    background-color:#fbfbfb;
+    background-color:rgba(217, 226, 224, 0.43);
+
+
   } 
 }
 
