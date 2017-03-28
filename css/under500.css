@@ -1,9 +1,12 @@
 
 @media (max-width: 500px) {
-  #lil_box {
-    display: none;
+   .image1{
+     display: none;
+   }
 
-  }
+   .image2{
+     display: block;
+   }
    #body{
     background-color:#fefcfe;
   } 
