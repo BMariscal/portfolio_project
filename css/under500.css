@@ -1,4 +1,18 @@
 
+@media (min-width: 500px) {
+   #image1{
+     display:block;
+   }
+
+   #image2{
+     display: none;
+   }
+ 
+}
+
+
+
+
 @media (max-width: 500px) {
    #image1{
      display: none;
@@ -11,3 +25,4 @@
     background-color:#fefcfe;
   } 
 }
+
