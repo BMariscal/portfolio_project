@@ -1,9 +1,5 @@
 
 
-
-
-
-
 @media (max-width: 500px) {
    #image1{
      display: none;
@@ -11,7 +7,7 @@
 
 
    #body{
-    background-color:#fefcfe;
+    background-color:#f1eff2;
   } 
 }
 
