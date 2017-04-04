@@ -7,4 +7,4 @@ Concepts/technologies applied:
  * bootstrap4
  * hovercss
  * responsive design
- * Chrome devtools
+
