@@ -4,7 +4,6 @@ Concepts/technologies applied:
  * html/css
  * jquery
  * modal windows
- * bootstrap4
- * hovercss
+ * bootstrap
  * responsive design
 
